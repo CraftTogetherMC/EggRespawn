@@ -1,0 +1,8 @@
+name: EggRespawn
+version: '${project.version}'
+build: '${project.build.number}'
+main: de.crafttogether.EggRespawn
+api-version: 1.13
+authors: [ J0schlZ ]
+description: This plugin spawns a dragon egg if an enderdragon is killed in an end world
+website: https://github.com/orgs/CraftTogetherMC
